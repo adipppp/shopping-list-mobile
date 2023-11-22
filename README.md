@@ -1,16 +1,11 @@
-# shopping_list
+## app flutter ada di directory shopping_list_mobile
 
-A new Flutter project.
+Nama : Fernanda Nadhiftya Putra
 
-## Getting Started
+NPM : 2206081686
 
-This project is a starting point for a Flutter application.
+Kelas : PBP D
 
-A few resources to get you started if this is your first Flutter project:
+Hobi : Bermain Game
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Jurusan : Ilmu Komputer
